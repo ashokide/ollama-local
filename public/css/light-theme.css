@@ -1,0 +1,14 @@
+/* Light theme variables */
+[data-theme="light"] {
+    --bg-color: #F8FAFC;
+    --chat-bg: #FFFFFF;
+    --message-bg: #F1F5F9;
+    --message-user-bg: #0066FF;
+    --input-bg: #F8FAFC;
+    --header-bg: #FFFFFF;
+    --border-color: #E2E8F0;
+    --text-color: #0F172A;
+    --text-secondary: #64748B;
+    --code-bg: #F1F5F9;
+    --primary-color: #0066FF;
+}
